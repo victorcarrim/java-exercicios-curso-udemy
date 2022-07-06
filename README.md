@@ -14,4 +14,4 @@
 
 ## Exercício 5
  Fazer um programa de sistema bancario, onde o usuário informa o número da conta, nome do titular e, caso queira, o valor inicial de depósito. Uma vez que a conta bancária foi aberta, o número da conta nunca poderá ser alterado. Já o nome do titular sim. 
-  O saldo da conta não poderá ser alterado livremente, ele só aumenta por meio de depósitos e diminui por meio de saques (com uma taxa de $5.00. A conta poderá ficar no negativo (cheque-especial).
+  O saldo da conta não poderá ser alterado livremente, ele só aumenta por meio de depósitos e diminui por meio de saques (com uma taxa de $5.00). A conta poderá ficar no negativo (cheque-especial).
